@@ -1,9 +1,9 @@
 # 🚀 DailyDevDSA
 
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/DailyDevDSA?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/DailyDevDSA)
-![Languages](https://img.shields.io/github/languages/count/your-username/DailyDevDSA)
-![License](https://img.shields.io/github/license/your-username/DailyDevDSA)
+![GitHub Repo stars](https://img.shields.io/github/stars/mohdahsanrazakhan/DailyDevDSA?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/mohdahsanrazakhan/DailyDevDSA)
+![Languages](https://img.shields.io/github/languages/count/mohdahsanrazakhan/DailyDevDSA)
+![License](https://img.shields.io/github/license/mohdahsanrazakhan/DailyDevDSA)
 
 > ✨ Solving **1 DSA problem every day** in both **C++** and **JavaScript**, focused on helping **frontend developers** strengthen their core programming and problem-solving skills.
 
@@ -55,14 +55,14 @@ Each day has its own folder containing:
 
 ---
 
-<!-- ## 📅 Progress Tracker
+## 📅 Progress Tracker
 
 | Day | Problem | C++ | JS |
 |-----|---------|-----|----|
-| ✅ 1 | [Two Sum](./Day01/problem.md) | ✅ | ✅ |
-| ✅ 2 | [Valid Parentheses](./Day02/problem.md) | ✅ | ✅ |
+| ✅ 1 | [Check if an Array is Sorted and Rotated](./Day001/problem.md) | ✅ | ✅ |
+<!-- | ✅ 2 | [Valid Parentheses](./Day02/problem.md) | ✅ | ✅ |
 | 🔜 3 | Coming Soon... | ⏳ | ⏳ |
-| 🔜 4 | ... | ⏳ | ⏳ |
+| 🔜 4 | ... | ⏳ | ⏳ | -->
 
 > ✅ = Completed, ⏳ = In Progress
 
@@ -70,7 +70,8 @@ Each day has its own folder containing:
 
 ## 🧠 Topics Covered
 
-- Arrays & Strings  
+- Arrays
+<!-- - Strings  
 - Hash Maps  
 - Stacks & Queues  
 - Recursion  
@@ -78,9 +79,9 @@ Each day has its own folder containing:
 - Trees & Graphs  
 - Sliding Window  
 - Dynamic Programming  
-- ...and more!
+- ...and more! -->
 
-<!-- --- -->
+<!-- ---
 
 ## 👥 Contribute
 
@@ -114,13 +115,19 @@ If you find this repo helpful:
 
 - GitHub: [@mohdahsanrazakhan](https://github.com/mohdahsanrazakhan)
 <!-- - Twitter: [@your-twitter](https://twitter.com/your-twitter) -->
-- LinkedIn: [Your Name](https://linkedin.com/in/mohd-ahsan-raza-khan)
+- LinkedIn: [Mohd Ahsan Raza Khan](https://linkedin.com/in/mohd-ahsan-raza-khan)
 
 ---
 
 ## 📝 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 💬 Community & Discussions
+
+Have questions or suggestions? Open an [issue](https://github.com/mohdahsanrazakhan/DailyDevDSA/issues) or start a [discussion](https://github.com/mohdahsanrazakhan/DailyDevDSA/discussions)!
 
 ---
 
