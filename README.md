@@ -82,7 +82,7 @@ Each day has its own folder containing:
 - Dynamic Programming  
 - ...and more! -->
 
-<!-- ---
+---
 
 ## 👥 Contribute
 
@@ -98,7 +98,7 @@ Want to help grow this project?
 - Keep filenames consistent: `solution.cpp` and `solution.js`
 - Add a brief explanation in `problem.md`
 - Follow the existing folder structure
-- Keep code readable and beginner-friendly -->
+- Keep code readable and beginner-friendly
 
 ---
 
