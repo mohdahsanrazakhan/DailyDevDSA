@@ -20,7 +20,7 @@ Each solution includes:
 - ✅ Clean, commented code
 - ✅ Problem description & explanation
 - ✅ Time and space complexity analysis
-
+> Beginner's Note: Multiple approaches might have the same function name. If you run the entire code at once, it may throw an error. Please run one function at a time and comment out the others.
 ---
 
 ## 🎯 Goal
@@ -60,8 +60,8 @@ Each day has its own folder containing:
 | Day | Problem | C++ | JS |
 |-----|---------|-----|----|
 | ✅ 1 | [Check if an Array is Sorted and Rotated](./Day001/problem.md) | ✅ | ✅ |
-<!-- | ✅ 2 | [Valid Parentheses](./Day02/problem.md) | ✅ | ✅ |
-| 🔜 3 | Coming Soon... | ⏳ | ⏳ |
+| ✅ 2 | [Merge two sorted arrays](./Day002/problem.md) | ✅ | ✅ |
+<!-- | 🔜 3 | Coming Soon... | ⏳ | ⏳ |
 | 🔜 4 | ... | ⏳ | ⏳ | -->
 
 > ✅ = Completed, ⏳ = In Progress
