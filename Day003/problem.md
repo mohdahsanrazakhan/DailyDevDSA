@@ -1,4 +1,4 @@
-## 📄 📄 Day 03: Rotate an Array by `d` (Counterclockwise / Left)
+## 📄 Day 03: Rotate an Array by `d` (Counterclockwise / Left)
 
 ### 🧩 Problem Statement
 
