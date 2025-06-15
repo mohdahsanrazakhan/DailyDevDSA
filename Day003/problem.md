@@ -50,6 +50,16 @@ Output: {2, 3, 1}
 * **Time Complexity:** `O(n)`  
 * **Space Complexity:** `O(n)`
 
+#### 🔹 Efficient Approach: Using Modulus
+
+- Use a temporary array to store the rotated result based on index shifting using modulus.
+- For each index i in the result array, compute the element as: `temp[i] = arr[(i + d) % n]`
+- Copy the temporary array back to the original array.
+
+#### ⏱️ Time & Space Complexity
+* **Time Complexity:** `O(n)`  
+* **Space Complexity:** `O(n)`
+
 #### ⚡ Approach 1: Juggling Algorithm
 
 - Rotate elements in cycles based on the **GCD of `n` and `d`**.
