@@ -61,7 +61,7 @@ Each day has its own folder containing:
 |-----|---------|-----|----|
 | ✅ 1 | [Check if an Array is Sorted and Rotated](./Day001/problem.md) | ✅ | ✅ |
 | ✅ 2 | [Merge two sorted arrays](./Day002/problem.md) | ✅ | ✅ |
-| ✅ 3 | [Rotate an Array by `d` in counter clock-wise](./Day003/problem.md) | ✅ | ⏳ |
+| ✅ 3 | [Rotate an Array by `d` in counter clock-wise](./Day003/problem.md) | ✅ | ✅ |
 <!-- | 🔜 3 | Coming Soon... | ⏳ | ⏳ |
 | 🔜 4 | ... | ⏳ | ⏳ | -->
 
